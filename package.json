@@ -1,0 +1,12 @@
+{
+  "name": "git-gud-at-yarn",
+  "version": "1.0.0",
+  "description": "A short yarn task",
+  "main": "index.js",
+  "author": "Marius J. Davidsen",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
